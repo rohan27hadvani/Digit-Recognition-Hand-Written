@@ -21,7 +21,7 @@ Logistic Regression
 - First clone the project
 - Go to the directory where you have cloned it
 - Run the following:
-- ```python digitfinal.py```
+- ```python digitrecogfinal.py```
 
 ### Contributors:
 - [Rohan Hadvani](https://github.com/rohan27hadvani)
