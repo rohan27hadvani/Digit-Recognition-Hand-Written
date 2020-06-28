@@ -1,6 +1,6 @@
 # Digit Recognition (Hand Written)
 
-By:[Rohan Hadvani](https://github.com/rohan27hadvani)
+By: [Rohan Hadvani](https://github.com/rohan27hadvani)
 
 
 ###  Predicting a numeric value after reading and interpreting an image that uses a handwritten font.
