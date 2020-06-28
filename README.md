@@ -1,5 +1,7 @@
 # Digit Recognition (Hand Written)
 
+By:[Rohan Hadvani](https://github.com/rohan27hadvani)
+
 
 ###  Predicting a numeric value after reading and interpreting an image that uses a handwritten font.
 
@@ -22,7 +24,4 @@ Logistic Regression
 - Go to the directory where you have cloned it
 - Run the following:
 - ```python digitrecogfinal.py```
-
-### Contributors:
-- [Rohan Hadvani](https://github.com/rohan27hadvani)
 
