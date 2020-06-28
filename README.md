@@ -1,4 +1,4 @@
-# Digitt Recognition (Hand Written)
+# Digit Recognition (Hand Written)
 
 
 ###  Predicting a numeric value after reading and interpreting an image that uses a handwritten font.
